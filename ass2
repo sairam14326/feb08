@@ -1,0 +1,3 @@
+kilometre=int(input ("enter kilometre"))
+centimetre=kilometre*100000
+print(centimetre)
